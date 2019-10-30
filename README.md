@@ -17,5 +17,5 @@ Tech stack: Python, TensorFlow...
 Signal processing
 (Preprocessing) - filters
 
-Neurotech EEG data
+Neurotech EEG data.
 
